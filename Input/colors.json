@@ -1,0 +1,427 @@
+[
+  {
+    "Name": "Modrá",
+    "Type": "hex",
+    "Value": "#0000FF"
+  },
+  {
+    "Name": "Zelená",
+    "Type": "hex",
+    "Value": "#00FF00"
+  },
+  {
+    "Name": "Červená",
+    "Type": "hex",
+    "Value": "#FF0000"
+  },
+  {
+    "Name": "Žlutá",
+    "Type": "hex",
+    "Value": "#FFFF00"
+  },
+  {
+    "Name": "Oranžová",
+    "Type": "hex",
+    "Value": "#FFA500"
+  },
+  {
+    "Name": "Růžová",
+    "Type": "hex",
+    "Value": "#FFC0CB"
+  },
+  {
+    "Name": "Hnědá",
+    "Type": "hex",
+    "Value": "#A52A2A"
+  },
+  {
+    "Name": "Šedá",
+    "Type": "hex",
+    "Value": "#808080"
+  },
+  {
+    "Name": "Fialová",
+    "Type": "hex",
+    "Value": "#800080"
+  },
+  {
+    "Name": "Černá",
+    "Type": "hex",
+    "Value": "#000000"
+  },
+  {
+    "Name": "Bílá",
+    "Type": "hex",
+    "Value": "#FFFFFF"
+  },
+  {
+    "Name": "Světle modrá",
+    "Type": "hex",
+    "Value": "#ADD8E6"
+  },
+  {
+    "Name": "Tmavě modrá",
+    "Type": "hex",
+    "Value": "#00008B"
+  },
+  {
+    "Name": "Světle zelená",
+    "Type": "hex",
+    "Value": "#90EE90"
+  },
+  {
+    "Name": "Tmavě zelená",
+    "Type": "hex",
+    "Value": "#006400"
+  },
+  {
+    "Name": "Světle červená",
+    "Type": "hex",
+    "Value": "#FFB6C1"
+  },
+  {
+    "Name": "Tmavě červená",
+    "Type": "hex",
+    "Value": "#8B0000"
+  },
+  {
+    "Name": "Světle žlutá",
+    "Type": "hex",
+    "Value": "#FFFFE0"
+  },
+  {
+    "Name": "Tmavě žlutá",
+    "Type": "hex",
+    "Value": "#FFD700"
+  },
+  {
+    "Name": "Světle oranžová",
+    "Type": "hex",
+    "Value": "#FFDEAD"
+  },
+  {
+    "Name": "Tmavě oranžová",
+    "Type": "hex",
+    "Value": "#FF8C00"
+  },
+  {
+    "Name": "Světle hnědá",
+    "Type": "hex",
+    "Value": "#D2B48C"
+  },
+  {
+    "Name": "Tmavě hnědá",
+    "Type": "hex",
+    "Value": "#8B4513"
+  },
+  {
+    "Name": "Světle šedá",
+    "Type": "hex",
+    "Value": "#D3D3D3"
+  },
+  {
+    "Name": "Tmavě šedá",
+    "Type": "hex",
+    "Value": "#A9A9A9"
+  },
+  {
+    "Name": "Světle fialová",
+    "Type": "hex",
+    "Value": "#D8BFD8"
+  },
+  {
+    "Name": "Tmavě fialová",
+    "Type": "hex",
+    "Value": "#4B0082"
+  },
+  {
+    "Name": "Červenohnědá",
+    "Type": "hex",
+    "Value": "#A0522D"
+  },
+  {
+    "Name": "Zelenomodrá",
+    "Type": "hex",
+    "Value": "#008080"
+  },
+  {
+    "Name": "Oranžovožlutá",
+    "Type": "hex",
+    "Value": "#FFDAB9"
+  },
+  {
+    "Name": "Žlutozelená",
+    "Type": "hex",
+    "Value": "#9ACD32"
+  },
+  {
+    "Name": "Růžovofialová",
+    "Type": "hex",
+    "Value": "#C71585"
+  },
+  {
+    "Name": "Zelená",
+    "Type": "rgba",
+    "Value": "rgba(0,255,0,1)"
+  },
+  {
+    "Name": "Modrá",
+    "Type": "rgba",
+    "Value": "rgba(0,0,255,1)"
+  },
+  {
+    "Name": "Červená",
+    "Type": "rgba",
+    "Value": "rgba(255,0,0,1)"
+  },
+  {
+    "Name": "Žlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,255,0,1)"
+  },
+  {
+    "Name": "Oranžová",
+    "Type": "rgba",
+    "Value": "rgba(255,165,0,1)"
+  },
+  {
+    "Name": "Růžová",
+    "Type": "rgba",
+    "Value": "rgba(255,192,203,1)"
+  },
+  {
+    "Name": "Hnědá",
+    "Type": "rgba",
+    "Value": "rgba(165,42,42,1)"
+  },
+  {
+    "Name": "Šedá",
+    "Type": "rgba",
+    "Value": "rgba(128,128,128,1)"
+  },
+  {
+    "Name": "Fialová",
+    "Type": "rgba",
+    "Value": "rgba(128,0,128,1)"
+  },
+  {
+    "Name": "Černá",
+    "Type": "rgba",
+    "Value": "rgba(0,0,0,1)"
+  },
+  {
+    "Name": "Bílá",
+    "Type": "rgba",
+    "Value": "rgba(255,255,255,1)"
+  },
+  {
+    "Name": "Světle modrá",
+    "Type": "rgba",
+    "Value": "rgba(173,216,230,1)"
+  },
+  {
+    "Name": "Tmavě modrá",
+    "Type": "rgba",
+    "Value": "rgba(0,0,139,1)"
+  },
+  {
+    "Name": "Světle zelená",
+    "Type": "rgba",
+    "Value": "rgba(144,238,144,1)"
+  },
+  {
+    "Name": "Tmavě zelená",
+    "Type": "rgba",
+    "Value": "rgba(0,100,0,1)"
+  },
+  {
+    "Name": "Světle červená",
+    "Type": "rgba",
+    "Value": "rgba(255,182,193,1)"
+  },
+  {
+    "Name": "Tmavě červená",
+    "Type": "rgba",
+    "Value": "rgba(139,0,0,1)"
+  },
+  {
+    "Name": "Světle žlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,255,224,1)"
+  },
+  {
+    "Name": "Tmavě žlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,215,0,1)"
+  },
+  {
+    "Name": "Světle oranžová",
+    "Type": "rgba",
+    "Value": "rgba(255,222,173,1)"
+  },
+  {
+    "Name": "Tmavě oranžová",
+    "Type": "rgba",
+    "Value": "rgba(255,140,0,1)"
+  },
+  {
+    "Name": "Světle hnědá",
+    "Type": "rgba",
+    "Value": "rgba(210,180,140,1)"
+  },
+  {
+    "Name": "Tmavě hnědá",
+    "Type": "rgba",
+    "Value": "rgba(139,69,19,1)"
+  },
+  {
+    "Name": "Světle šedá",
+    "Type": "rgba",
+    "Value": "rgba(211,211,211,1)"
+  },
+  {
+    "Name": "Tmavě šedá",
+    "Type": "rgba",
+    "Value": "rgba(169,169,169,1)"
+  },
+  {
+    "Name": "Světle fialová",
+    "Type": "rgba",
+    "Value": "rgba(216,191,216,1)"
+  },
+  {
+    "Name": "Tmavě fialová",
+    "Type": "rgba",
+    "Value": "rgba(75,0,130,1)"
+  },
+  {
+    "Name": "Červenohnědá",
+    "Type": "rgba",
+    "Value": "rgba(160,82,45,1)"
+  },
+  {
+    "Name": "Zelenomodrá",
+    "Type": "rgba",
+    "Value": "rgba(0,128,128,1)"
+  },
+  {
+    "Name": "Oranžovožlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,218,185,1)"
+  },
+  {
+    "Name": "Žlutozelená",
+    "Type": "rgba",
+    "Value": "rgba(154,205,50,1)"
+  },
+  {
+    "Name": "Růžovofialová",
+    "Type": "rgba",
+    "Value": "rgba(199,21,133,1)"
+  },
+  {
+    "Name": "Světle modrá",
+    "Type": "rgba",
+    "Value": "rgba(173,216,230,1)"
+  },
+  {
+    "Name": "Tmavě modrá",
+    "Type": "rgba",
+    "Value": "rgba(0,0,139,1)"
+  },
+  {
+    "Name": "Světle zelená",
+    "Type": "rgba",
+    "Value": "rgba(144,238,144,1)"
+  },
+  {
+    "Name": "Tmavě zelená",
+    "Type": "rgba",
+    "Value": "rgba(0,100,0,1)"
+  },
+  {
+    "Name": "Světle červená",
+    "Type": "rgba",
+    "Value": "rgba(255,182,193,1)"
+  },
+  {
+    "Name": "Tmavě červená",
+    "Type": "rgba",
+    "Value": "rgba(139,0,0,1)"
+  },
+  {
+    "Name": "Světle žlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,255,224,1)"
+  },
+  {
+    "Name": "Tmavě žlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,215,0,1)"
+  },
+  {
+    "Name": "Světle oranžová",
+    "Type": "rgba",
+    "Value": "rgba(255,222,173,1)"
+  },
+  {
+    "Name": "Tmavě oranžová",
+    "Type": "rgba",
+    "Value": "rgba(255,140,0,1)"
+  },
+  {
+    "Name": "Světle hnědá",
+    "Type": "rgba",
+    "Value": "rgba(210,180,140,1)"
+  },
+  {
+    "Name": "Tmavě hnědá",
+    "Type": "rgba",
+    "Value": "rgba(139,69,19,1)"
+  },
+  {
+    "Name": "Světle šedá",
+    "Type": "rgba",
+    "Value": "rgba(211,211,211,1)"
+  },
+  {
+    "Name": "Tmavě šedá",
+    "Type": "rgba",
+    "Value": "rgba(169,169,169,1)"
+  },
+  {
+    "Name": "Světle fialová",
+    "Type": "rgba",
+    "Value": "rgba(216,191,216,1)"
+  },
+  {
+    "Name": "Tmavě fialová",
+    "Type": "rgba",
+    "Value": "rgba(75,0,130,1)"
+  },
+  {
+    "Name": "Červenohnědá",
+    "Type": "rgba",
+    "Value": "rgba(160,82,45,1)"
+  },
+  {
+    "Name": "Zelenomodrá",
+    "Type": "rgba",
+    "Value": "rgba(0,128,128,1)"
+  },
+  {
+    "Name": "Oranžovožlutá",
+    "Type": "rgba",
+    "Value": "rgba(255,218,185,1)"
+  },
+  {
+    "Name": "Žlutozelená",
+    "Type": "rgba",
+    "Value": "rgba(154,205,50,1)"
+  },
+  {
+    "Name": "Růžovofialová",
+    "Type": "rgba",
+    "Value": "rgba(199,21,133,1)"
+  }
+]

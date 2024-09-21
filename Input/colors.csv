@@ -1,0 +1,85 @@
+Modrá;hex;#0000FF
+Zelená;hex;#00FF00
+Červená;hex;#FF0000
+Žlutá;hex;#FFFF00
+Oranžová;hex;#FFA500
+Růžová;hex;#FFC0CB
+Hnědá;hex;#A52A2A
+Šedá;hex;#808080
+Fialová;hex;#800080
+Černá;hex;#000000
+Bílá;hex;#FFFFFF
+Světle modrá;hex;#ADD8E6
+Tmavě modrá;hex;#00008B
+Světle zelená;hex;#90EE90
+Tmavě zelená;hex;#006400
+Světle červená;hex;#FFB6C1
+Tmavě červená;hex;#8B0000
+Světle žlutá;hex;#FFFFE0
+Tmavě žlutá;hex;#FFD700
+Světle oranžová;hex;#FFDEAD
+Tmavě oranžová;hex;#FF8C00
+Světle hnědá;hex;#D2B48C
+Tmavě hnědá;hex;#8B4513
+Světle šedá;hex;#D3D3D3
+Tmavě šedá;hex;#A9A9A9
+Světle fialová;hex;#D8BFD8
+Tmavě fialová;hex;#4B0082
+Červenohnědá;hex;#A0522D
+Zelenomodrá;hex;#008080
+Oranžovožlutá;hex;#FFDAB9
+Žlutozelená;hex;#9ACD32
+Růžovofialová;hex;#C71585
+Zelená;rgba;rgba(0,255,0,1)
+Modrá;rgba;rgba(0,0,255,1)
+Červená;rgba;rgba(255,0,0,1)
+Žlutá;rgba;rgba(255,255,0,1)
+Oranžová;rgba;rgba(255,165,0,1)
+Růžová;rgba;rgba(255,192,203,1)
+Hnědá;rgba;rgba(165,42,42,1)
+Šedá;rgba;rgba(128,128,128,1)
+Fialová;rgba;rgba(128,0,128,1)
+Černá;rgba;rgba(0,0,0,1)
+Bílá;rgba;rgba(255,255,255,1)
+Světle modrá;rgba;rgba(173,216,230,1)
+Tmavě modrá;rgba;rgba(0,0,139,1)
+Světle zelená;rgba;rgba(144,238,144,1)
+Tmavě zelená;rgba;rgba(0,100,0,1)
+Světle červená;rgba;rgba(255,182,193,1)
+Tmavě červená;rgba;rgba(139,0,0,1)
+Světle žlutá;rgba;rgba(255,255,224,1)
+Tmavě žlutá;rgba;rgba(255,215,0,1)
+Světle oranžová;rgba;rgba(255,222,173,1)
+Tmavě oranžová;rgba;rgba(255,140,0,1)
+Světle hnědá;rgba;rgba(210,180,140,1)
+Tmavě hnědá;rgba;rgba(139,69,19,1)
+Světle šedá;rgba;rgba(211,211,211,1)
+Tmavě šedá;rgba;rgba(169,169,169,1)
+Světle fialová;rgba;rgba(216,191,216,1)
+Tmavě fialová;rgba;rgba(75,0,130,1)
+Červenohnědá;rgba;rgba(160,82,45,1)
+Zelenomodrá;rgba;rgba(0,128,128,1)
+Oranžovožlutá;rgba;rgba(255,218,185,1)
+Žlutozelená;rgba;rgba(154,205,50,1)
+Růžovofialová;rgba;rgba(199,21,133,1)
+Světle modrá;rgba;rgba(173,216,230,1)
+Tmavě modrá;rgba;rgba(0,0,139,1)
+Světle zelená;rgba;rgba(144,238,144,1)
+Tmavě zelená;rgba;rgba(0,100,0,1)
+Světle červená;rgba;rgba(255,182,193,1)
+Tmavě červená;rgba;rgba(139,0,0,1)
+Světle žlutá;rgba;rgba(255,255,224,1)
+Tmavě žlutá;rgba;rgba(255,215,0,1)
+Světle oranžová;rgba;rgba(255,222,173,1)
+Tmavě oranžová;rgba;rgba(255,140,0,1)
+Světle hnědá;rgba;rgba(210,180,140,1)
+Tmavě hnědá;rgba;rgba(139,69,19,1)
+Světle šedá;rgba;rgba(211,211,211,1)
+Tmavě šedá;rgba;rgba(169,169,169,1)
+Světle fialová;rgba;rgba(216,191,216,1)
+Tmavě fialová;rgba;rgba(75,0,130,1)
+Červenohnědá;rgba;rgba(160,82,45,1)
+Zelenomodrá;rgba;rgba(0,128,128,1)
+Oranžovožlutá;rgba;rgba(255,218,185,1)
+Žlutozelená;rgba;rgba(154,205,50,1)
+Růžovofialová;rgba;rgba(199,21,133,1)

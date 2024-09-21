@@ -1,0 +1,427 @@
+<Colors>
+  <Color>
+    <Name>Modrá</Name>
+    <Type>hex</Type>
+    <Value>#0000FF</Value>
+  </Color>
+  <Color>
+    <Name>Zelená</Name>
+    <Type>hex</Type>
+    <Value>#00FF00</Value>
+  </Color>
+  <Color>
+    <Name>Červená</Name>
+    <Type>hex</Type>
+    <Value>#FF0000</Value>
+  </Color>
+  <Color>
+    <Name>Žlutá</Name>
+    <Type>hex</Type>
+    <Value>#FFFF00</Value>
+  </Color>
+  <Color>
+    <Name>Oranžová</Name>
+    <Type>hex</Type>
+    <Value>#FFA500</Value>
+  </Color>
+  <Color>
+    <Name>Růžová</Name>
+    <Type>hex</Type>
+    <Value>#FFC0CB</Value>
+  </Color>
+  <Color>
+    <Name>Hnědá</Name>
+    <Type>hex</Type>
+    <Value>#A52A2A</Value>
+  </Color>
+  <Color>
+    <Name>Šedá</Name>
+    <Type>hex</Type>
+    <Value>#808080</Value>
+  </Color>
+  <Color>
+    <Name>Fialová</Name>
+    <Type>hex</Type>
+    <Value>#800080</Value>
+  </Color>
+  <Color>
+    <Name>Černá</Name>
+    <Type>hex</Type>
+    <Value>#000000</Value>
+  </Color>
+  <Color>
+    <Name>Bílá</Name>
+    <Type>hex</Type>
+    <Value>#FFFFFF</Value>
+  </Color>
+  <Color>
+    <Name>Světle modrá</Name>
+    <Type>hex</Type>
+    <Value>#ADD8E6</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě modrá</Name>
+    <Type>hex</Type>
+    <Value>#00008B</Value>
+  </Color>
+  <Color>
+    <Name>Světle zelená</Name>
+    <Type>hex</Type>
+    <Value>#90EE90</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě zelená</Name>
+    <Type>hex</Type>
+    <Value>#006400</Value>
+  </Color>
+  <Color>
+    <Name>Světle červená</Name>
+    <Type>hex</Type>
+    <Value>#FFB6C1</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě červená</Name>
+    <Type>hex</Type>
+    <Value>#8B0000</Value>
+  </Color>
+  <Color>
+    <Name>Světle žlutá</Name>
+    <Type>hex</Type>
+    <Value>#FFFFE0</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě žlutá</Name>
+    <Type>hex</Type>
+    <Value>#FFD700</Value>
+  </Color>
+  <Color>
+    <Name>Světle oranžová</Name>
+    <Type>hex</Type>
+    <Value>#FFDEAD</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě oranžová</Name>
+    <Type>hex</Type>
+    <Value>#FF8C00</Value>
+  </Color>
+  <Color>
+    <Name>Světle hnědá</Name>
+    <Type>hex</Type>
+    <Value>#D2B48C</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě hnědá</Name>
+    <Type>hex</Type>
+    <Value>#8B4513</Value>
+  </Color>
+  <Color>
+    <Name>Světle šedá</Name>
+    <Type>hex</Type>
+    <Value>#D3D3D3</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě šedá</Name>
+    <Type>hex</Type>
+    <Value>#A9A9A9</Value>
+  </Color>
+  <Color>
+    <Name>Světle fialová</Name>
+    <Type>hex</Type>
+    <Value>#D8BFD8</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě fialová</Name>
+    <Type>hex</Type>
+    <Value>#4B0082</Value>
+  </Color>
+  <Color>
+    <Name>Červenohnědá</Name>
+    <Type>hex</Type>
+    <Value>#A0522D</Value>
+  </Color>
+  <Color>
+    <Name>Zelenomodrá</Name>
+    <Type>hex</Type>
+    <Value>#008080</Value>
+  </Color>
+  <Color>
+    <Name>Oranžovožlutá</Name>
+    <Type>hex</Type>
+    <Value>#FFDAB9</Value>
+  </Color>
+  <Color>
+    <Name>Žlutozelená</Name>
+    <Type>hex</Type>
+    <Value>#9ACD32</Value>
+  </Color>
+  <Color>
+    <Name>Růžovofialová</Name>
+    <Type>hex</Type>
+    <Value>#C71585</Value>
+  </Color>
+  <Color>
+    <Name>Zelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,255,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Modrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,0,255,1)</Value>
+  </Color>
+  <Color>
+    <Name>Červená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,0,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Žlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,255,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Oranžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,165,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Růžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,192,203,1)</Value>
+  </Color>
+  <Color>
+    <Name>Hnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(165,42,42,1)</Value>
+  </Color>
+  <Color>
+    <Name>Šedá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(128,128,128,1)</Value>
+  </Color>
+  <Color>
+    <Name>Fialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(128,0,128,1)</Value>
+  </Color>
+  <Color>
+    <Name>Černá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,0,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Bílá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,255,255,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle modrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(173,216,230,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě modrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,0,139,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle zelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(144,238,144,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě zelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,100,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle červená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,182,193,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě červená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(139,0,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle žlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,255,224,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě žlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,215,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle oranžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,222,173,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě oranžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,140,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle hnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(210,180,140,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě hnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(139,69,19,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle šedá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(211,211,211,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě šedá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(169,169,169,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle fialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(216,191,216,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě fialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(75,0,130,1)</Value>
+  </Color>
+  <Color>
+    <Name>Červenohnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(160,82,45,1)</Value>
+  </Color>
+  <Color>
+    <Name>Zelenomodrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,128,128,1)</Value>
+  </Color>
+  <Color>
+    <Name>Oranžovožlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,218,185,1)</Value>
+  </Color>
+  <Color>
+    <Name>Žlutozelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(154,205,50,1)</Value>
+  </Color>
+  <Color>
+    <Name>Růžovofialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(199,21,133,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle modrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(173,216,230,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě modrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,0,139,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle zelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(144,238,144,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě zelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,100,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle červená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,182,193,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě červená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(139,0,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle žlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,255,224,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě žlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,215,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle oranžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,222,173,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě oranžová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,140,0,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle hnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(210,180,140,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě hnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(139,69,19,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle šedá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(211,211,211,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě šedá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(169,169,169,1)</Value>
+  </Color>
+  <Color>
+    <Name>Světle fialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(216,191,216,1)</Value>
+  </Color>
+  <Color>
+    <Name>Tmavě fialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(75,0,130,1)</Value>
+  </Color>
+  <Color>
+    <Name>Červenohnědá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(160,82,45,1)</Value>
+  </Color>
+  <Color>
+    <Name>Zelenomodrá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(0,128,128,1)</Value>
+  </Color>
+  <Color>
+    <Name>Oranžovožlutá</Name>
+    <Type>rgba</Type>
+    <Value>rgba(255,218,185,1)</Value>
+  </Color>
+  <Color>
+    <Name>Žlutozelená</Name>
+    <Type>rgba</Type>
+    <Value>rgba(154,205,50,1)</Value>
+  </Color>
+  <Color>
+    <Name>Růžovofialová</Name>
+    <Type>rgba</Type>
+    <Value>rgba(199,21,133,1)</Value>
+  </Color>
+</Colors>
